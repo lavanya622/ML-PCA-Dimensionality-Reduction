@@ -366,4 +366,3 @@ PCA is useful for **dimensionality reduction, visualization, feature extraction,
 ---
 
 
-B.Tech – Computer Science Engineering (AI & ML)
